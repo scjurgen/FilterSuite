@@ -1,0 +1,25 @@
+raw alpha1    =   0.0100000000
+raw alpha2    =   0.0100000000
+warped alpha1 =   0.0100032912
+warped alpha2 =   0.0100032912
+gain at dc    :   mag = 3.282051595e+01   phase =   0.0000000000 pi
+gain at centre:   mag = 2.320760939e+01   phase =  -0.2500000000 pi
+gain at hf    :   mag = 0.000000000e+00
+
+S-plane zeros:
+
+S-plane poles:
+	 -0.0628525321 + j   0.0000000000
+
+Z-plane zeros:
+	 -1.0000000000 + j   0.0000000000
+
+Z-plane poles:
+	  0.9390625058 + j   0.0000000000
+
+Recurrence relation:
+y[n] = (  1 * x[n- 1])
+     + (  1 * x[n- 0])
+
+     + (  0.9390625058 * y[n- 1])
+

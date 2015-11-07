@@ -1,0 +1,10 @@
+*.o
+.idea
+build
+mkfilter-code-1/mkshape
+mkfilter-code-1/mkaverage
+mkfilter-code-1/mkfilter
+mkfilter-code-1/genplot
+mkfilter-code-1/gencode
+*.png
+*.dat
