@@ -55,11 +55,6 @@ using a filter is pretty easy
         double outvalue = filter.step(invalue);
 ```
 
-Hopefully this will become in the future:
-   BandPass<double,Resonator,1> filter;
-
-
-
 #Tests
 
 if you want to run the tests you will need:
